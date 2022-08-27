@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **DOTNET, ASP.NET CORE, Anything related to web development :)**
 
-- 📫 How to reach me **kirolloshany9999@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kirollo30008756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirollo30008756" height="30" width="40" /></a>
