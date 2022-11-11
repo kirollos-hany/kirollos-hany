@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as **a junior DOTNET developer at DigitalMagna**
 
-- 🌱 I’m currently learning **Angular, Tailwind, SASS**
-
 - 💬 Ask me about **DOTNET, ASP.NET CORE, Anything related to web development :)**
 
 <h3 align="left">Connect with me:</h3>
