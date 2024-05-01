@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirollos Hany</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
 
-- 🔭 I’m currently working as **a junior DOTNET developer at DigitalMagna**
+- 🔭 I’m currently working as **a Mid Level Dotnet Developer @United Integrated Solutions**
 
 - 💬 Ask me about **DOTNET, ASP.NET CORE, Anything related to web development :)**
 
